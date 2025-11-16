@@ -35,7 +35,3 @@ The dataset consists of movie ratings collected from Fandango and Rotten Tomatoe
 - Rotten Tomatoes provides **more accurate and unbiased** ratings.  
 - Moviegoers relying solely on Fandango may get a **misleading impression** of movie quality.  
 
-## 🚀 How to Run the Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/sukh-j-14/Fandango-Project.git
